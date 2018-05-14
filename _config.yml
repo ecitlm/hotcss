@@ -1,0 +1,8 @@
+title: hotcss
+description: 移动端布局终极解决方案
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
